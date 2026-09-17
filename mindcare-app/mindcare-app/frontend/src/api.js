@@ -1,4 +1,4 @@
-const BASE_URL = "/api";
+const BASE_URL = "https://mindcare-backend-sanjai.onrender.com/api";
 
 async function handle(res) {
   if (!res.ok) {
