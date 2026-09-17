@@ -1,0 +1,20 @@
+{
+  "name": "mindcare-backend",
+  "version": "1.0.0",
+  "description": "MindCare - backend API with rule-based sentiment scoring and a custom Naive Bayes emotion classifier",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sentiment": "^5.0.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

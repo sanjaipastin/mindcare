@@ -1,0 +1,516 @@
+{
+  "journalEntries": [
+    {
+      "id": "30f49598-e6f1-476b-9cee-512ae8a8af5a",
+      "text": "i feel angry",
+      "createdAt": "2026-09-15T10:27:04.107Z",
+      "sentiment": {
+        "score": -3,
+        "comparative": -1,
+        "positiveWords": [],
+        "negativeWords": [
+          "angry"
+        ]
+      },
+      "emotion": {
+        "label": "calm",
+        "confidence": 0.272,
+        "distribution": [
+          {
+            "label": "calm",
+            "probability": 0.272
+          },
+          {
+            "label": "sad",
+            "probability": 0.238
+          },
+          {
+            "label": "happy",
+            "probability": 0.176
+          },
+          {
+            "label": "stressed",
+            "probability": 0.143
+          },
+          {
+            "label": "anxious",
+            "probability": 0.106
+          },
+          {
+            "label": "angry",
+            "probability": 0.065
+          }
+        ]
+      },
+      "stressScore": 45,
+      "suggestion": "Good moment to plan tomorrow while you're clear-headed."
+    },
+    {
+      "id": "01a119d8-1ce5-4801-90af-ada6d4f38937",
+      "text": "i feel hungry",
+      "createdAt": "2026-09-15T10:15:19.099Z",
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "positiveWords": [],
+        "negativeWords": []
+      },
+      "emotion": {
+        "label": "calm",
+        "confidence": 0.272,
+        "distribution": [
+          {
+            "label": "calm",
+            "probability": 0.272
+          },
+          {
+            "label": "sad",
+            "probability": 0.238
+          },
+          {
+            "label": "happy",
+            "probability": 0.176
+          },
+          {
+            "label": "stressed",
+            "probability": 0.143
+          },
+          {
+            "label": "anxious",
+            "probability": 0.106
+          },
+          {
+            "label": "angry",
+            "probability": 0.065
+          }
+        ]
+      },
+      "stressScore": 20,
+      "suggestion": "Good moment to plan tomorrow while you're clear-headed."
+    },
+    {
+      "id": "022e2b0d-9c43-46b3-b74b-66bc9ec474b0",
+      "text": "i feel sucide thoughts",
+      "createdAt": "2026-09-15T10:10:13.910Z",
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "positiveWords": [],
+        "negativeWords": []
+      },
+      "emotion": {
+        "label": "calm",
+        "confidence": 0.274,
+        "distribution": [
+          {
+            "label": "calm",
+            "probability": 0.274
+          },
+          {
+            "label": "sad",
+            "probability": 0.24
+          },
+          {
+            "label": "happy",
+            "probability": 0.18
+          },
+          {
+            "label": "stressed",
+            "probability": 0.136
+          },
+          {
+            "label": "anxious",
+            "probability": 0.103
+          },
+          {
+            "label": "angry",
+            "probability": 0.067
+          }
+        ]
+      },
+      "stressScore": 20,
+      "suggestion": "Good moment to plan tomorrow while you're clear-headed."
+    },
+    {
+      "id": "f8584e17-e69f-406d-8600-8eebcc16a686",
+      "text": "i love",
+      "createdAt": "2026-09-15T09:22:58.286Z",
+      "sentiment": {
+        "score": 3,
+        "comparative": 1.5,
+        "positiveWords": [
+          "love"
+        ],
+        "negativeWords": []
+      },
+      "emotion": {
+        "label": "stressed",
+        "confidence": 0.183,
+        "distribution": [
+          {
+            "label": "stressed",
+            "probability": 0.183
+          },
+          {
+            "label": "anxious",
+            "probability": 0.174
+          },
+          {
+            "label": "happy",
+            "probability": 0.166
+          },
+          {
+            "label": "sad",
+            "probability": 0.163
+          },
+          {
+            "label": "calm",
+            "probability": 0.163
+          },
+          {
+            "label": "angry",
+            "probability": 0.151
+          }
+        ]
+      },
+      "stressScore": 55,
+      "suggestion": "Write down just the next single action instead of the whole list — momentum reduces overwhelm."
+    },
+    {
+      "id": "c8cac0d0-82d7-4a12-9087-8b2267a509fc",
+      "text": "i feel happy",
+      "createdAt": "2026-09-15T08:29:48.195Z",
+      "sentiment": {
+        "score": 3,
+        "comparative": 1,
+        "positiveWords": [
+          "happy"
+        ],
+        "negativeWords": []
+      },
+      "emotion": {
+        "label": "happy",
+        "confidence": 0.299,
+        "distribution": [
+          {
+            "label": "happy",
+            "probability": 0.299
+          },
+          {
+            "label": "calm",
+            "probability": 0.231
+          },
+          {
+            "label": "sad",
+            "probability": 0.202
+          },
+          {
+            "label": "stressed",
+            "probability": 0.122
+          },
+          {
+            "label": "anxious",
+            "probability": 0.09
+          },
+          {
+            "label": "angry",
+            "probability": 0.055
+          }
+        ]
+      },
+      "stressScore": 0,
+      "suggestion": "Note what led to this feeling — it's useful data for your future self."
+    },
+    {
+      "id": "09667dee-1072-48e0-ba8c-78286169bb8f",
+      "text": "i feel sad",
+      "createdAt": "2026-09-15T08:24:40.155Z",
+      "sentiment": {
+        "score": -2,
+        "comparative": -0.667,
+        "positiveWords": [],
+        "negativeWords": [
+          "sad"
+        ]
+      },
+      "emotion": {
+        "label": "calm",
+        "confidence": 0.272,
+        "distribution": [
+          {
+            "label": "calm",
+            "probability": 0.272
+          },
+          {
+            "label": "sad",
+            "probability": 0.238
+          },
+          {
+            "label": "happy",
+            "probability": 0.176
+          },
+          {
+            "label": "stressed",
+            "probability": 0.143
+          },
+          {
+            "label": "anxious",
+            "probability": 0.106
+          },
+          {
+            "label": "angry",
+            "probability": 0.065
+          }
+        ]
+      },
+      "stressScore": 45,
+      "suggestion": "Consider journaling what helped you feel this way, so you can repeat it later."
+    },
+    {
+      "id": "852a6847-1b69-4f55-b1ad-83ab69de5752",
+      "text": "i feel sad",
+      "createdAt": "2026-09-15T04:48:10.975Z",
+      "sentiment": {
+        "score": -2,
+        "comparative": -0.667,
+        "positiveWords": [],
+        "negativeWords": [
+          "sad"
+        ]
+      },
+      "emotion": {
+        "label": "calm",
+        "confidence": 0.272,
+        "distribution": [
+          {
+            "label": "calm",
+            "probability": 0.272
+          },
+          {
+            "label": "sad",
+            "probability": 0.238
+          },
+          {
+            "label": "happy",
+            "probability": 0.176
+          },
+          {
+            "label": "stressed",
+            "probability": 0.143
+          },
+          {
+            "label": "anxious",
+            "probability": 0.106
+          },
+          {
+            "label": "angry",
+            "probability": 0.065
+          }
+        ]
+      },
+      "stressScore": 45,
+      "suggestion": "Good moment to plan tomorrow while you're clear-headed."
+    },
+    {
+      "id": "7ebea8a9-fef4-418e-b881-43a08be9b675",
+      "text": "i feel very happy now",
+      "createdAt": "2026-09-09T06:57:58.180Z",
+      "sentiment": {
+        "score": 3,
+        "comparative": 0.6,
+        "positiveWords": [
+          "happy"
+        ],
+        "negativeWords": []
+      },
+      "emotion": {
+        "label": "calm",
+        "confidence": 0.393,
+        "distribution": [
+          {
+            "label": "calm",
+            "probability": 0.393
+          },
+          {
+            "label": "sad",
+            "probability": 0.229
+          },
+          {
+            "label": "happy",
+            "probability": 0.175
+          },
+          {
+            "label": "stressed",
+            "probability": 0.121
+          },
+          {
+            "label": "anxious",
+            "probability": 0.048
+          },
+          {
+            "label": "angry",
+            "probability": 0.033
+          }
+        ]
+      },
+      "stressScore": 0,
+      "suggestion": "Good moment to plan tomorrow while you're clear-headed."
+    },
+    {
+      "id": "16d4b649-d186-4c16-b4f0-7b3fab59148a",
+      "text": "i feel sad",
+      "createdAt": "2026-09-09T06:56:52.305Z",
+      "sentiment": {
+        "score": -2,
+        "comparative": -0.667,
+        "positiveWords": [],
+        "negativeWords": [
+          "sad"
+        ]
+      },
+      "emotion": {
+        "label": "calm",
+        "confidence": 0.272,
+        "distribution": [
+          {
+            "label": "calm",
+            "probability": 0.272
+          },
+          {
+            "label": "sad",
+            "probability": 0.238
+          },
+          {
+            "label": "happy",
+            "probability": 0.176
+          },
+          {
+            "label": "stressed",
+            "probability": 0.143
+          },
+          {
+            "label": "anxious",
+            "probability": 0.106
+          },
+          {
+            "label": "angry",
+            "probability": 0.065
+          }
+        ]
+      },
+      "stressScore": 45,
+      "suggestion": "Consider journaling what helped you feel this way, so you can repeat it later."
+    },
+    {
+      "id": "46c931d4-4b10-434e-8e43-391fe6077631",
+      "text": "sanjai",
+      "createdAt": "2026-09-09T06:49:50.308Z",
+      "sentiment": {
+        "score": 0,
+        "comparative": 0,
+        "positiveWords": [],
+        "negativeWords": []
+      },
+      "emotion": {
+        "label": "stressed",
+        "confidence": 0.183,
+        "distribution": [
+          {
+            "label": "stressed",
+            "probability": 0.183
+          },
+          {
+            "label": "anxious",
+            "probability": 0.174
+          },
+          {
+            "label": "happy",
+            "probability": 0.166
+          },
+          {
+            "label": "sad",
+            "probability": 0.163
+          },
+          {
+            "label": "calm",
+            "probability": 0.163
+          },
+          {
+            "label": "angry",
+            "probability": 0.151
+          }
+        ]
+      },
+      "stressScore": 80,
+      "suggestion": "Break your remaining work into 25-minute focused blocks (Pomodoro) with short breaks."
+    }
+  ],
+  "moodLogs": [
+    {
+      "id": "63be2780-d9ee-4ec6-b8a2-1cd56539e9ed",
+      "mood": "awful",
+      "note": "i feel angry",
+      "createdAt": "2026-09-15T10:26:22.806Z"
+    },
+    {
+      "id": "43df3eb3-e51d-413b-9484-7d481c5d97ec",
+      "mood": "good",
+      "note": "",
+      "createdAt": "2026-09-15T10:14:53.984Z"
+    },
+    {
+      "id": "1c568b9d-ce29-4b90-81d6-c9da19844925",
+      "mood": "good",
+      "note": "",
+      "createdAt": "2026-09-15T10:09:41.138Z"
+    },
+    {
+      "id": "e44f84ad-3b6a-4b24-b1cc-5ef8b24e81ca",
+      "mood": "great",
+      "note": "stress",
+      "createdAt": "2026-09-15T09:22:43.656Z"
+    },
+    {
+      "id": "64bc0a7e-7377-4be3-9edb-2fad8293dafa",
+      "mood": "good",
+      "note": "",
+      "createdAt": "2026-09-15T09:21:53.472Z"
+    },
+    {
+      "id": "2b52c105-b4c2-4953-95fb-c15b901864e2",
+      "mood": "okay",
+      "note": "",
+      "createdAt": "2026-09-15T08:29:38.008Z"
+    },
+    {
+      "id": "bb9c74c2-8800-4651-8412-60e8b20d0bb8",
+      "mood": "low",
+      "note": "i feel sad",
+      "createdAt": "2026-09-15T08:24:27.902Z"
+    },
+    {
+      "id": "ae3425b9-578e-41d9-a08d-3981b24b8d38",
+      "mood": "low",
+      "note": "i feel angry",
+      "createdAt": "2026-09-15T04:47:20.892Z"
+    },
+    {
+      "id": "d6be905e-b317-4575-9152-ccda516296ff",
+      "mood": "okay",
+      "note": "",
+      "createdAt": "2026-09-09T06:49:20.237Z"
+    },
+    {
+      "id": "1184a8c2-194f-4c97-bd8f-ab0810ca5893",
+      "mood": "good",
+      "note": "",
+      "createdAt": "2026-09-09T06:36:03.312Z"
+    },
+    {
+      "id": "7081b1ef-fbee-45ad-af30-91ac088c2928",
+      "mood": "great",
+      "note": "",
+      "createdAt": "2026-09-09T06:20:26.069Z"
+    }
+  ]
+}
